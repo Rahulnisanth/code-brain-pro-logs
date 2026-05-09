@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-09",
+  "syncedAt": "2026-05-09T15:36:16.803Z",
+  "eventCount": 3,
+  "syncedEventCount": 3,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "a0db07cf-5bca-45e2-b92b-e354a0fffda1",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL-Teacher/lib/src/feature/contact_us/repository/contact_us_repository.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL-Teacher",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-05-09T15:34:52.295Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "5e1ec1ac-3767-45ba-aadc-98d718f459ef"
+    },
+    {
+      "eventId": "716f7bcc-4807-44af-95a6-232e40c90370",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL-Teacher/lib/src/feature/contact_us/repository/contact_us_repository.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL-Teacher",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-05-09T15:35:32.261Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "05e6473d-7144-41aa-b920-0419b81f9e70"
+    },
+    {
+      "eventId": "4ed55fa4-6581-4b8d-9359-e4ea43c2d98a",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL-Teacher/lib/src/feature/contact_us/repository/contact_us_repository.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL-Teacher",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-05-09T15:36:07.298Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "83ce4a85-89c5-4c95-8c3e-ae40b0a5b758"
+    }
+  ]
+}
