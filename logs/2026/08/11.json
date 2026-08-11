@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-11",
+  "syncedAt": "2026-08-11T04:55:48.286Z",
+  "eventCount": 1,
+  "syncedEventCount": 1,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "c4d33b88-7cba-4581-b46d-5b9f49df0d28",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/src/feature/events/presentation/screen/event_details_screen.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-08-11T04:49:36.058Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "0e6a816e-afe8-4e15-8193-da9e2271f3c6"
+    }
+  ]
+}
