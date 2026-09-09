@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-09",
+  "syncedAt": "2026-09-09T02:18:20.409Z",
+  "eventCount": 4,
+  "syncedEventCount": 4,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "2328661b-201f-49e5-9643-c342b71d4875",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/src/feature/grading/presentation/screens/grading_screen.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-08T18:40:14.592Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "16882f3b-f79e-4977-bbb1-37e981acaf3d"
+    },
+    {
+      "eventId": "639462a0-e006-48fe-9419-fe2946748463",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/src/core/audio/domain/service/audio_recorder_service.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-08T18:55:34.349Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "0fafeb9b-618d-476c-a02d-2e6b85e915a8"
+    },
+    {
+      "eventId": "843fffc6-9426-4a7d-8539-c57a3f5d0501",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/src/feature/grading/presentation/screens/grading_screen.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-08T18:55:35.016Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "0fafeb9b-618d-476c-a02d-2e6b85e915a8"
+    },
+    {
+      "eventId": "f021fc22-9355-46d8-8f75-7651bda0235b",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/main_uat.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-08T19:16:51.879Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "1cd62b26-ca55-4c24-afe5-7191bf3db987"
+    }
+  ]
+}
