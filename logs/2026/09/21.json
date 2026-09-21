@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-21",
+  "syncedAt": "2026-09-21T02:54:43.506Z",
+  "eventCount": 2,
+  "syncedEventCount": 2,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "817d0c4e-2532-4b7b-b301-7a923d46ac20",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/main.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-20T18:38:27.617Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "269f57ab-9509-4e59-bcfd-7edda41dc677"
+    },
+    {
+      "eventId": "71374a26-1efc-451e-aebe-06164fe91296",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App/lib/src/feature/home/presentation/bloc/home_state.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AC9-Mobile/AOL Teacher App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-09-20T18:39:32.606Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "269f57ab-9509-4e59-bcfd-7edda41dc677"
+    }
+  ]
+}
