@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-10",
+  "syncedAt": "2026-10-09T21:05:35.231Z",
+  "eventCount": 1,
+  "syncedEventCount": 1,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "dedeffb1-0f87-4201-a11e-0af849511be7",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/test/src/feature/untag_leads/presentation/bloc/untag_lead_details/untag_lead_details_event_test.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-10-09T20:21:16.405Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "46d710ac-ac1e-4929-bc80-29647e24d5c7"
+    }
+  ]
+}
