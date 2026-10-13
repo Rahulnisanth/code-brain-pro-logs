@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-13",
+  "syncedAt": "2026-10-13T05:55:09.888Z",
+  "eventCount": 3,
+  "syncedEventCount": 3,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "00b1d1f9-cd5c-47ce-bfcb-4ca39f4bdfc6",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/ios/Podfile.lock",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-10-13T04:40:48.390Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "plaintext",
+      "sessionId": "9a17a956-e214-40b0-b11e-b5981ace79ec"
+    },
+    {
+      "eventId": "6eab1991-efa0-4be6-8d8b-991a9ae90afc",
+      "type": "edit",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/ios/Podfile.lock",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-10-13T04:40:51.799Z",
+      "linesAdded": 1,
+      "linesRemoved": 1,
+      "languageId": "plaintext",
+      "sessionId": "9a17a956-e214-40b0-b11e-b5981ace79ec"
+    },
+    {
+      "eventId": "3ae18b9f-624c-47c7-8a4e-5000447d1e02",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/core/models/feature_flag/feature_flag_enums.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-10-13T04:40:54.217Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "9a17a956-e214-40b0-b11e-b5981ace79ec"
+    }
+  ]
+}
