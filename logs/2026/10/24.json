@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-24",
+  "syncedAt": "2026-10-24T14:47:13.374Z",
+  "eventCount": 1,
+  "syncedEventCount": 1,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "018b1982-3444-46cc-bbfb-9056ef0b9ece",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/feature/assignment/presentation/bloc/assignment_form/assignment_form_bloc.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-10-24T14:39:22.795Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "15da56bf-066d-44df-b7b0-b17d7e3ad4e5"
+    }
+  ]
+}
