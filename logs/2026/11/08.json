@@ -1,8 +1,8 @@
 {
   "date": "2026-11-08",
-  "syncedAt": "2026-11-08T08:26:46.507Z",
-  "eventCount": 12,
-  "syncedEventCount": 12,
+  "syncedAt": "2026-11-08T14:28:06.852Z",
+  "eventCount": 16,
+  "syncedEventCount": 16,
   "truncated": false,
   "events": [
     {
@@ -148,6 +148,54 @@
       "linesRemoved": 0,
       "languageId": "dart",
       "sessionId": "62e0c1ea-1412-4f00-914f-d7b4794f075e"
+    },
+    {
+      "eventId": "d5d08778-c966-4965-9e42-cd9bbfd4fc56",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/feature/auth/domain/usecases/post_auth_usecase.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-08T14:18:05.210Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "77a6b0b2-c796-4e15-bb8b-c1ef2459ee5f"
+    },
+    {
+      "eventId": "757cd8ad-ab60-4bb4-9390-2d8293cdec45",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/feature/onboarding/domain/usecases/start_app_usecase.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-08T14:18:06.131Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "77a6b0b2-c796-4e15-bb8b-c1ef2459ee5f"
+    },
+    {
+      "eventId": "e14ecf79-43d3-43a8-9dad-781a43c0aa1f",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/feature/home/presentation/screens/home_screen.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-08T14:18:06.963Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "77a6b0b2-c796-4e15-bb8b-c1ef2459ee5f"
+    },
+    {
+      "eventId": "3ffc3b4a-c13a-4be7-a77f-a9d9c961ea61",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/feature/events/presentation/bloc/manual_sync/manual_sync_bloc.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-08T14:18:07.665Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "77a6b0b2-c796-4e15-bb8b-c1ef2459ee5f"
     }
   ]
 }
