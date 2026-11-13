@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-14",
+  "syncedAt": "2026-11-13T22:38:41.996Z",
+  "eventCount": 4,
+  "syncedEventCount": 4,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "6da8a8aa-1871-47ac-827c-bf699ae3c007",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/config/user_based_feature_flag.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-13T19:27:04.462Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "b140991c-abb0-437d-b007-fe0fcf3c2bc3"
+    },
+    {
+      "eventId": "59103e99-7cac-4ef9-87b6-d914d1ce2856",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/config/config.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-13T19:43:04.555Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "6e486af0-6d99-4770-be47-28fd56a9597c"
+    },
+    {
+      "eventId": "1e935b67-fc4c-4d23-981c-eea69b237d31",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/.editorconfig",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-13T19:47:26.974Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "properties",
+      "sessionId": "6e486af0-6d99-4770-be47-28fd56a9597c"
+    },
+    {
+      "eventId": "69466d93-4bc8-434f-a4da-3f6915c7b563",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/config/user_based_feature_flag.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-13T19:47:30.098Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "6e486af0-6d99-4770-be47-28fd56a9597c"
+    }
+  ]
+}
