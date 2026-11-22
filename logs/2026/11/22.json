@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-22",
+  "syncedAt": "2026-11-22T16:27:00.280Z",
+  "eventCount": 4,
+  "syncedEventCount": 4,
+  "truncated": false,
+  "events": [
+    {
+      "eventId": "91f9556c-f246-4100-a90c-8cc1dd496b10",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/ios/Runner/GoogleService-Info.plist",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-22T10:45:05.816Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "xml",
+      "sessionId": "01fbb97c-7f8b-4dbc-89e5-eeeed5130090"
+    },
+    {
+      "eventId": "a270ba2c-6cd8-45fc-a213-36a445967271",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/core/models/feature_flag/feature_flag_enums.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-22T10:45:07.538Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "01fbb97c-7f8b-4dbc-89e5-eeeed5130090"
+    },
+    {
+      "eventId": "866396c1-8817-4b86-a933-6473b4a1537f",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/main.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-22T10:45:10.427Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "01fbb97c-7f8b-4dbc-89e5-eeeed5130090"
+    },
+    {
+      "eventId": "46cdb0d8-3672-4a4b-a4db-bfaf947be4b8",
+      "type": "focus",
+      "filePath": "/Users/rahulnisanth/Developer/AOL/Teacher-App/lib/src/services/app_update_service.dart",
+      "repoRoot": "/Users/rahulnisanth/Developer/AOL/Teacher-App",
+      "repoName": "AOL-Teacher",
+      "timestamp": "2026-11-22T15:54:31.130Z",
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "languageId": "dart",
+      "sessionId": "baed0082-6f6b-40de-8203-90b3beaeceb9"
+    }
+  ]
+}
